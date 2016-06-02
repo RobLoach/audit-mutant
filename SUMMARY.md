@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Performance](performancemd.md)
-   * Modules
+   * [Modules](modules.md)
    * Configuration
 * [Security](security.md)
 
