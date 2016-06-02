@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Performance](chapter1.md)
+* [Performance](performance.md)
 * [Security](security.md)
 
