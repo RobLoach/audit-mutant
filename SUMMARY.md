@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Performance](performancemd.md)
    * [Modules](security--modules.md)
-   * Configuration
+   * [Configuration](security--configuration.md)
 * [Security](security.md)
 
