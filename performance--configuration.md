@@ -1,2 +1,3 @@
 # Configuration
 
+- Caching enabled? etc.
